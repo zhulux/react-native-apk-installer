@@ -7,8 +7,7 @@ This project is based on `react-native-android-library-boilerplate` and `react-n
 
 1. Add `react-native-apk-installer` to your project
 
-  - Install directly from npm: `npm install --save react-native-apk-installer`.
-  - Or do `npm install --save git+https://github.com/null--/react-native-apk-installer.git` in your main project.
+  - Do `npm install --save git+https://github.com/zhulux/react-native-apk-installer.git` in your main project.
 
 2. Link the library:
 
